@@ -1,0 +1,8 @@
+
+#profile {
+    width: 150px; /* adjust as per your requirement */
+    height: 150px; /* adjust as per your requirement */
+    border-radius: 50%; /* to make image circular */
+    float: left; /* to make image float left of the text */
+    margin-right: 20px; /* adjust as per your requirement */
+}
